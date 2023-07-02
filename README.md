@@ -4,9 +4,9 @@ ImageVision-SDK 8が正式リリース！
 
 倉庫はファイルサイズに制限があるため、本倉庫には静的ライブラリファイルがなく、ファイルが完全で適切ではありません。次のリンクに移動して完全版圧縮パッケージをダウンロードしてください。本SDKのすべての更新は以下のリンクで公開されていますので、以下のリンクの変化に注目してください。
 
-https://pan.baidu.com/s/1Y3eDayRzjwJSGEvn-6UBMg?pwd=1234 抽出コード: 1234
+https://pan.baidu.com/s/1ymASCpUgJADhyKALeHmSMA?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/mPF4n77y
+https://share.weiyun.com/BV6DJLw3
 
 https://caiyun.139.com/m/i?0H5CJY1i2Coeh 抽出コード:BkYO
 
