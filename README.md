@@ -6,17 +6,17 @@ ImageVision-SDK 8が正式リリース！
 
 倉庫はファイルサイズに制限があるため、本倉庫には静的ライブラリファイルがなく、ファイルが完全で適切ではありません。次のリンクに移動して完全版圧縮パッケージをダウンロードしてください。本SDKのすべての更新は以下のリンクで公開されていますので、以下のリンクの変化に注目してください。
 
-https://pan.baidu.com/s/1ymASCpUgJADhyKALeHmSMA?pwd=1234 提取码: 1234
+https://pan.baidu.com/s/1F0tBFGroaztEflMBXPFVvQ?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/BV6DJLw3
+https://share.weiyun.com/1dsaoQHV
 
-https://caiyun.139.com/m/i?0H5CJYVEkbQG2  提取码:VdPb
+https://caiyun.139.com/m/i?0H5CIuEJ2DoNn 提取码:3xOK
 
-https://www.mediafire.com/file/hp60fildwbhn99s/ImageVision-SDK_9%2528GodLight%2529.zip/file
+https://www.mediafire.com/file/0309otm39z76nce/ImageVision-SDK_10%2528WindTide%2529.zip/file
 
-https://jmj.cc/s/cm55bv
+https://jmj.cc/s/a3xglk
 
-https://cloud.189.cn/web/share?code=Bnmm6v6viAJj（访问码：kzm8）
+https://cloud.189.cn/web/share?code=3M3qEjzuEVVr（访问码：3qwu）
 
 以下のQQ群に連絡する:
 
