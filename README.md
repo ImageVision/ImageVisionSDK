@@ -10,6 +10,8 @@ https://pan.baidu.com/s/167t-md4rh6r_3tswyQSA-Q?pwd=1234 提取码: 1234
 
 https://share.weiyun.com/r2IaJjQ4
 
+https://wani.teracloud.jp/share/11f12f856b98e429
+
 https://caiyun.139.com/m/i?0H5CJF5RPmmIl  提取码:shq5
 
 https://www.mediafire.com/file/w0dbp4unpqgpq3i/ImageVision-SDK_11%2528%25E6%2597%25AD%25E6%2597%25A5%2529.zip/file
