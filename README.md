@@ -6,17 +6,17 @@ ImageVision-SDK 10が正式リリース！
 
 倉庫はファイルサイズに制限があるため、本倉庫には静的ライブラリファイルがなく、ファイルが完全で適切ではありません。次のリンクに移動して完全版圧縮パッケージをダウンロードしてください。本SDKのすべての更新は以下のリンクで公開されていますので、以下のリンクの変化に注目してください。
 
-https://pan.baidu.com/s/1F0tBFGroaztEflMBXPFVvQ?pwd=1234 提取码: 1234
+https://pan.baidu.com/s/167t-md4rh6r_3tswyQSA-Q?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/1dsaoQHV
+https://share.weiyun.com/r2IaJjQ4
 
-https://caiyun.139.com/m/i?0H5CIuEJ2DoNn 提取码:3xOK
+https://caiyun.139.com/m/i?0H5CJF5RPmmIl  提取码:shq5
 
-https://www.mediafire.com/file/0309otm39z76nce/ImageVision-SDK_10%2528WindTide%2529.zip/file
+https://www.mediafire.com/file/w0dbp4unpqgpq3i/ImageVision-SDK_11%2528%25E6%2597%25AD%25E6%2597%25A5%2529.zip/file
 
-https://jmj.cc/s/a3xglk
+https://jmj.cc/s/ioox1m
 
-https://cloud.189.cn/web/share?code=3M3qEjzuEVVr（访问码：3qwu）
+https://cloud.189.cn/web/share?code=zy26vuzUFzIj（访问码：b9fm）
 
 以下のQQ群に連絡する:
 
