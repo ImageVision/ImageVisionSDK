@@ -5,27 +5,15 @@
 新規購入：
 
 1年間：
-Visual Studio 2017(v141) x86 Release：金0.1グラム/セット
-Visual Studio 2017(v141) x64 Release：金0.1グラム/セット
-Visual Studio 2019(v142) x86 Release：金0.1グラム/セット
-Visual Studio 2019(v142) x64 Release：金0.1グラム/セット
-Visual Studio 2022(v143) x86 Release：金0.1グラム/セット
-Visual Studio 2022(v143) x64 Release：金0.1グラム/セット
+Visual Studio x86 Release：金0.1グラム/セット
+Visual Studio x64 Release：金0.1グラム/セット
 
 
 3年間：
-Visual Studio 2017(v141) x86 Release：金0.2グラム/セット
-Visual Studio 2017(v141) x64 Release：金0.2グラム/セット
-Visual Studio 2019(v142) x86 Release：金0.2グラム/セット
-Visual Studio 2019(v142) x64 Release：金0.2グラム/セット
-Visual Studio 2022(v143) x86 Release：金0.2グラム/セット
-Visual Studio 2022(v143) x64 Release：金0.2グラム/セット
+Visual Studio x86 Release：金0.2グラム/セット
+Visual Studio x64 Release：金0.2グラム/セット
 
 
 10年間：
-Visual Studio 2017(v141) x86 Release：金0.7グラム/セット
-Visual Studio 2017(v141) x64 Release：金0.7グラム/セット
-Visual Studio 2019(v142) x86 Release：金0.7グラム/セット
-Visual Studio 2019(v142) x64 Release：金0.7グラム/セット
-Visual Studio 2022(v143) x86 Release：金0.7グラム/セット
-Visual Studio 2022(v143) x64 Release：金0.7グラム/セット
+Visual Studio x86 Release：金0.7グラム/セット
+Visual Studio x64 Release：金0.7グラム/セット
